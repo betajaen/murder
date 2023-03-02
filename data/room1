@@ -1,0 +1,10 @@
+NAME bedroom1
+
+WHEN ENTER()
+    SET_BG "bedroom1"
+    SAY "Hello"
+    SET day 10
+    SAY "Bonjour"
+END
+
+

@@ -1,0 +1,15 @@
+Bit Potion
+==========
+
+Bit Potion was a font created by Joeb Rogers licensed under the CC-BY license
+
+It was converted by Robin Southern into the Amiga bitmap font format and is
+included in this source code and releases of this game, as the the following
+files:
+
+1. BitPotion.font
+2. BitPotion/9
+
+For further information please visit:
+
+https://joebrogers.itch.io/bitpotion

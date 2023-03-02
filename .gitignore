@@ -1,0 +1,6 @@
+game/*
+*.o
+mcc
+m
+._.*
+.DS_Store
